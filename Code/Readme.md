@@ -12,6 +12,7 @@ Target: 2 3
 Case#1Output:
 Path found at depth 5 using IDDFS
 Traversal Order: [(0,0), (1,0), (1,1), (0,1), (2,1), (2,2), (2,3)]
+
 Output:
 ![Output](Screen/Labreport02(Case01).png)
 
@@ -25,6 +26,7 @@ Target: 2 2
 
 Case#2Output:
 Path not found at max depth 6 using IDDFS
+
 Output:
 
 ![Output](Screen/Labreport02(Case02).png)
