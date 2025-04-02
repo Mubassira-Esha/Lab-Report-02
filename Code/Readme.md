@@ -26,4 +26,5 @@ Target: 2 2
 Case#2Output:
 Path not found at max depth 6 using IDDFS
 Output:
+
 ![Output](Screen/Labreport02(Case02).png)
